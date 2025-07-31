@@ -47,3 +47,6 @@ Meu objetivo é atuar em projetos que me desafiem e me permitam aplicar o que ve
 
 </div>
 
+<img src="https://raw.githubusercontent.com/filipemotaa/filipemotaa/output/snake.svg" alt="Snake animation" />
+
+###
