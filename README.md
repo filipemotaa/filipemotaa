@@ -1,54 +1,21 @@
-<h2 align="left">👋 Olá! Sou o Filipe</h2>
- 
-🎓 Graduando em Análise e Desenvolvimento de Sistemas   
-💻 Desenvolvedor Front-end em formação  
-🚀 Apaixonado por tecnologia e inovação   
+# Hi, I'm Filipe 👋
 
----
+Full-Stack Developer based in Brazil (UTC-3). I build production web systems that businesses run on every day — internal tools, booking systems and AI-powered automations.
 
-### 💡 Sobre mim
+Currently building the internal systems of a retail supermarket (finance, payables/receivables, operations checklist, HR), used daily by ~25 people across 10 departments. I also run **FM Dev**, building websites and systems for local businesses.
 
-Sou Filipe Mota, estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento front-end. Tenho me dedicado à construção de uma base técnica sólida por meio de estudos diários e projetos práticos.
+I work AI-natively with Claude Code, and I review every change it makes.
 
-Atualmente, estou aprofundando meus conhecimentos em *HTML*, *CSS*, *JavaScript* e *React*, além de ferramentas como *Git* e *GitHub*. Busco evoluir constantemente, unindo teoria e prática para criar aplicações web funcionais, bem estruturadas e com boa experiência de uso.
+**Stack:** Next.js · React · Supabase (PostgreSQL) · Vercel · Tailwind CSS · Node.js · Python/Flask
 
-Meu objetivo é atuar em projetos que me desafiem e me permitam aplicar o que venho aprendendo, sempre com responsabilidade, organização e mentalidade de crescimento.
+### Featured projects
 
-🤝 Também valorizo fortemente habilidades como:
-- Disciplina e consistência nos estudos
-- Proatividade para aprender e aplicar por conta própria
-- Clareza na organização de ideias e execução de projetos
+| Project | What it is | Stack |
+|---|---|---|
+| [**Sobre o Saibro**](https://github.com/filipemotaa/sobre-o-saibro) | Court booking PWA for a tennis club — in production with a paying client | HTML/JS · Supabase · PWA |
+| [**Finance Dashboard**](https://github.com/filipemotaa/finance-dashboard) | Full-stack personal finance app: budgets, goals, investments, reports | React · Node.js · SQLite |
+| [**Loyalty System**](https://github.com/filipemotaa/sistema-fidelizacao) | Customer loyalty program built for and tested with a local store | Python · Flask · SQLite |
 
-  
+🌎 Open to remote Full-Stack / Product Engineering roles.
 
----
-
-### 🛠️ Tecnologias e Ferramentas 
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-</div>
-
----
-
-### 🤝 Conecte-se comigo
-
-<div align="left">
-  <a href="filipe.mota.pro@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href=https://www.linkedin.com/in/filipe-mota-13bb55345/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-
-
-</div>
-
----
-
-<img src="https://raw.githubusercontent.com/filipemotaa/filipemotaa/output/snake.svg" alt="Snake animation" />
-
-###
+📫 [LinkedIn](https://www.linkedin.com/in/filipemotaa) · filipe.mota.pro@gmail.com
